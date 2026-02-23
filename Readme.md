@@ -22,6 +22,58 @@ This project is a command-line based YouTube Video Downloader that integrates wi
 To get started with this project, follow these steps:
 
 1. **Clone the Repository**:
-   ```bash
+
    git clone https://github.com/yourusername/YouTube-Video-Downloader.git
 
+
+## How It Works
+
+The project uses yt-dlp to:
+
+Fetch available formats
+
+Select best video + audio streams
+
+Merge them into a final file
+
+Save file with video title as filename
+
+ ## Requirements
+
+Python 3.10+
+
+Internet Connection
+
+yt-dlp installed
+
+⚠ Disclaimer
+
+This tool is intended for educational purposes only.
+Please respect YouTube's Terms of Service and copyright policies.
+
+## Future Improvements
+
+Add GUI interface (Tkinter / PyQt)
+
+Add download progress bar
+
+Add playlist support
+
+Add format selection menu
+
+Docker support
+
+## Contribution
+
+Contributions are welcome!
+Fork the repo and submit a pull request.
+
+## Author
+
+Atul Anand
+BCA (Hons)
+Amity University, Noida
+
+##  Support
+
+If you found this useful, give it a ⭐ on GitHub!
